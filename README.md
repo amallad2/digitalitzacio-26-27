@@ -1,0 +1,2 @@
+# DIGITALITZACIÓ 26-27
+
