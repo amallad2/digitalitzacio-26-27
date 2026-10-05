@@ -1,3 +1,4 @@
+# Exemples recorrer cadenes
 s="hola"
 cont=0
 for c in s:
